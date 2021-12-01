@@ -1,0 +1,7 @@
+#Entrega: Trabalhando em equipe com git.
+
+## Fato sobre <Rafael De Souza Cruz>
+
+1. O seu Nome; Rafael De Souza Cruz
+2. Um pouco sobre você; Uma pessoa com ambição, determinada e focada. Porém, que sabe levar a vida de maneira leve.
+3. Comentário sobre o seu relacionamento com a TI; Pois bem... acabei tendo contato com programação durante o meio deste ano. Infelizmente não foi de maneira tão agradável, contudo, após dar um breve tempo, retornei para a área com vocês da Kenzie. Desejando estar seguindo esse ramo de maneira com que eu possa estar concluindo os meus objetivos e, claro, progredir pessoalmente e profissionalmente. T.I/programação e afins, em minha opinião, é o mercado do futuro. Um mercado onde todos devem estar tendo, pelo menos, o conhecimento básico, pois a tecnologia é um dos fatores mais relevantes nos tempos atuais.
